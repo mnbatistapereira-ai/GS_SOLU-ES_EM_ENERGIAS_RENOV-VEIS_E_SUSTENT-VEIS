@@ -5,6 +5,9 @@ O Space Energy Monitor é uma solução computacional desenvolvida para simular,
 
 
 Integrantes:
+
 Nome: Mateus de Oliveira Fernandes Neves  RM: 572431
+
 Nome: Marcelo do Nascimento Batista Pereira	 RM: 569410
+
 Nome: Nathan Hiroshi Watanabe  RM: 572806
